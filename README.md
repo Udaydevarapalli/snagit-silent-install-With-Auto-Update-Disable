@@ -1,0 +1,1 @@
+# snagit-silent-install-With-Auto-Update-Disable
